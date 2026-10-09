@@ -20,7 +20,7 @@ Support Vector Machine (SVM), Logistic Regression, Random Forest, XGBoost.
 3. Split 80% train / 20% test (stratified, `random_state=42`).
 4. Fill missing values with the median and scale features (fitted on training data only).
 5. Train the four models and evaluate on the test set: accuracy, precision, recall, F1.
-6. Save confusion matrices, feature-importance charts and `all_results.csv` in `outputs/`.
+6. Save confusion matrices, feature-importance charts and `all_results.csv` in the outputs folder (shown here at the top level of the repo).
 
 ## Results (test accuracy)
 | Model | Breast Cancer | Diabetes | Heart Disease |
