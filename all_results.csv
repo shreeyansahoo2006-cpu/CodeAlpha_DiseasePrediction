@@ -1,0 +1,13 @@
+Dataset,Model,Accuracy,Precision,Recall,F1
+breast_cancer,SVM,0.974,1.0,0.929,0.963
+breast_cancer,Logistic Regression,0.965,0.975,0.929,0.951
+breast_cancer,Random Forest,0.974,1.0,0.929,0.963
+breast_cancer,XGBoost,0.965,1.0,0.905,0.95
+heart,SVM,0.852,0.806,0.893,0.847
+heart,Logistic Regression,0.869,0.812,0.929,0.867
+heart,Random Forest,0.885,0.818,0.964,0.885
+heart,XGBoost,0.852,0.788,0.929,0.852
+diabetes,SVM,0.74,0.652,0.556,0.6
+diabetes,Logistic Regression,0.708,0.6,0.5,0.545
+diabetes,Random Forest,0.773,0.702,0.611,0.653
+diabetes,XGBoost,0.766,0.696,0.593,0.64
